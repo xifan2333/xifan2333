@@ -12,9 +12,9 @@
 ### ⏰ 时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,7 +84,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xifan2333/xifan2333/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 22:56:27 UTC
+ Last Updated on 08/08/2024 23:15:15 UTC
 <!--END_SECTION:waka-->
 
 #### 项目
