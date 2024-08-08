@@ -1,6 +1,7 @@
 ### 你好，我是稀饭👋
 
-![picture 0](https://storage.xifan.fun/d27b8d34424706452469a0dcd0be488622ce98cee9ed51c69e3892b4594879fa.png)
+![picture 2](https://storage.xifan.fun/ae34e817d58cfc941f8ffbf576e80f5dead9b776840694d29f3c16e16eef252b.png)  
+
 
 - 🎤 单口喜剧演员
 - 😡 漫才组合吐槽役
@@ -41,5 +42,6 @@
 
 ### 💖 赞赏
 
-<img src="https://storage.xifan.fun/21b40dcaff4e8387af6493ad295f98e9956223a99e5f2ad031730d22da33d9be.png" alt="picture 1" style="zoom:50%;" />  
+<img src="https://storage.xifan.fun/21b40dcaff4e8387af6493ad295f98e9956223a99e5f2ad031730d22da33d9be.png" alt="picture 1" style="zoom:33%;" />  
+
 
