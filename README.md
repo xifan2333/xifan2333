@@ -16,11 +16,13 @@
 
 #### 项目
 
-![项目推荐](https://github-contributor-stats.vercel.app/api?username=xifan2333&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![项目推荐](https://github-contributor-stats.vercel.app/api?username=xifan2333&limit=5&theme=transparent&combine_all_yearly_contributions=true?count_private=true?locale=cn)
 
 #### 文章
 
 ### 💻 技术栈
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?locale=cn)
 
 #### Python
 
@@ -34,14 +36,10 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%230071C3.svg?style=for-the-badge&logo=esp32&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xifan2333&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ### 💬 联系我
 
 ![Telegram](https://img.shields.io/badge/telegram-xifan--telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![WeChat](https://img.shields.io/badge/wechat-xifan--backup-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 ### 💖 赞赏
 
-<img src="https://storage.xifan.fun/21b40dcaff4e8387af6493ad295f98e9956223a99e5f2ad031730d22da33d9be.png" alt="picture 1" style="max-width:64px;" />  
-
-
+![picture 6](https://storage.xifan.fun/575aab094474e34e0aeb5de43c9876f5079d1a9fc421c8cd7afeba02e51f38ce.png)  
