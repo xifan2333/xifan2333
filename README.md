@@ -42,6 +42,6 @@
 
 ### 💖 赞赏
 
-<img src="https://storage.xifan.fun/21b40dcaff4e8387af6493ad295f98e9956223a99e5f2ad031730d22da33d9be.png" alt="picture 1" style="zoom:33%;" />  
+<img src="https://storage.xifan.fun/21b40dcaff4e8387af6493ad295f98e9956223a99e5f2ad031730d22da33d9be.png" alt="picture 1" style="max-width:64px;" />  
 
 
