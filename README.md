@@ -21,6 +21,7 @@
 #### 文章
 
 <!-- BLOG-POST-LIST:START -->
+- [编程 | 再也不折腾 python 环境了](https://xifan2333.github.io/post/bian-cheng-%20-%20-zai-ye-bu-zhe-teng-%20python%20-huan-jing-le.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 技术栈
