@@ -12,43 +12,6 @@
 ### ⏰ 时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C987%20hrs%2032%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 116 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Vue** 
-
-```text
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
- Last Updated on 09/08/2024 04:37:48 UTC
 <!--END_SECTION:waka-->
 
 #### 项目
