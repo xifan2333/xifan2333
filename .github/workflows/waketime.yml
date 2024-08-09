@@ -28,4 +28,4 @@ jobs:
           SHOW_SECTION_HEADER: "false" # 禁用部分标题显示
           SHOW_LOC_CHART: "false"      # 禁用代码行数图表显示
           Timeline: "false"            # 不显示timeline
-          LOCALE: "cn"
+          LOCALE: "zh"
