@@ -13,3 +13,18 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+           SHOW_PROJECTS: "true"       # 启用项目信息显示
+          SHOW_TIMEZONE: "false"      # 禁用时区信息显示
+          SHOW_LANGUAGE: "false"      # 禁用语言信息显示
+          SHOW_EDITORS: "false"       # 禁用编辑器信息显示
+          SHOW_OS: "false"            # 禁用操作系统信息显示
+          SHOW_TIME: "false"          # 禁用时间统计显示
+          SHOW_COMMIT: "false"        # 禁用提交信息显示
+          SHOW_LINES_OF_CODE: "false" # 禁用代码行数信息显示
+          SHOW_PROFILE_PIC: "false"   # 禁用个人资料图片显示
+          SHOW_DAYS_OF_WEEK: "false"  # 禁用星期几信息显示
+          SHOW_WEEKLY_COMMIT: "false" # 禁用每周提交信息显示
+          SHOW_ACTIVITY: "false"      # 禁用活动信息显示
+          SHOW_SECTION_HEADER: "false" # 禁用部分标题显示
+          SHOW_LOC_CHART: "false"      # 禁用代码行数图表显示
+          LOCAL: "cn"
