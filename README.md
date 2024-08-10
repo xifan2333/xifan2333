@@ -12,17 +12,18 @@
 ### ⏰ 时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C990%20hrs%2013%20mins-blue)
 
 📊 **本周消耗时间** 
 
 ```text
 🐱‍💻 项目: 
-本周没有记录到任何活动
+xifan2333                2 hrs 24 mins       ██████████████████░░░░░░░   73.06 % 
+xifan2333.github.io      53 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
 ```
 
 
- Last Updated on 09/08/2024 18:39:05 UTC
+ Last Updated on 10/08/2024 18:36:37 UTC
 <!--END_SECTION:waka-->
 
 #### 项目
