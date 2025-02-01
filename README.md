@@ -12,18 +12,18 @@
 ### ⏰ 时间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C938%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C938%20hrs%2056%20mins-blue)
 
 📊 **本周消耗时间** 
 
 ```text
 🐱‍💻 项目: 
-Spider                   6 hrs 36 mins       ████████████████░░░░░░░░░   65.80 % 
-oil-depth-detection      3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
+Spider                   6 hrs 35 mins       ████████████████░░░░░░░░░   65.26 % 
+oil-depth-detection      3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
 ```
 
 
- Last Updated on 31/01/2025 18:40:28 UTC
+ Last Updated on 01/02/2025 18:37:45 UTC
 <!--END_SECTION:waka-->
 
 #### 项目
