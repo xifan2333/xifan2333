@@ -33,12 +33,6 @@ weibo-api                12 mins             ░░░░░░░░░░░�
 
 ![项目推荐](https://github-contributor-stats.vercel.app/api?username=xifan2333&limit=5&theme=transparent&combine_all_yearly_contributions=true?count_private=true?locale=cn)
 
-#### 文章
-
-<!-- BLOG-POST-LIST:START -->
-- [编程 | 再也不折腾 python 环境了](https://xifan2333.github.io/post/bian-cheng-%20-%20-zai-ye-bu-zhe-teng-%20python%20-huan-jing-le.html)
-<!-- BLOG-POST-LIST:END -->
-
 ### 💻 技术栈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?locale=cn)
