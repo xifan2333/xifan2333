@@ -1,6 +1,6 @@
 ### 你好，我是稀饭👋
 
-![picture 2](https://storage.xifan.fun/ae34e817d58cfc941f8ffbf576e80f5dead9b776840694d29f3c16e16eef252b.png)  
+![picture](http://storage.xifan.fun/ae34e817d58cfc941f8ffbf576e80f5dead9b776840694d29f3c16e16eef252b.png)  
 
 
 - 🎤 单口喜剧演员
@@ -61,4 +61,4 @@ weibo-api                12 mins             ░░░░░░░░░░░�
 
 ### 💖 赞赏
 
-![picture 6](https://storage.xifan.fun/575aab094474e34e0aeb5de43c9876f5079d1a9fc421c8cd7afeba02e51f38ce.png)  
+![picture](http://storage.xifan.fun/575aab094474e34e0aeb5de43c9876f5079d1a9fc421c8cd7afeba02e51f38ce.png)  
