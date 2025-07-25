@@ -12,6 +12,8 @@
 ### ⏰ 时间
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C811%20hrs%2023%20mins-blue)
+
 📊 **本周消耗时间** 
 
 ```text
@@ -24,7 +26,7 @@ remotion-template        43 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 24/07/2025 21:38:33 UTC
+ Last Updated on 25/07/2025 18:42:19 UTC
 <!--END_SECTION:waka-->
 
 #### 项目
