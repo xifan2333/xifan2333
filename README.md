@@ -12,8 +12,17 @@
 ### ⏰ 时间
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C849%20hrs%2025%20mins-blue?style=flat)
 
- Last Updated on 01/02/2026 18:44:12 UTC
+📊 **本周消耗时间** 
+
+```text
+🐱‍💻 项目: 
+本周没有记录到任何活动
+```
+
+
+ Last Updated on 02/02/2026 18:45:18 UTC
 <!--END_SECTION:waka-->
 
 #### 项目
