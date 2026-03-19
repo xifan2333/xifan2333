@@ -1,37 +1,21 @@
 ### 你好，我是稀饭👋
 
-![picture](http://storage.xifan.fun/ae34e817d58cfc941f8ffbf576e80f5dead9b776840694d29f3c16e16eef252b.png)  
-
+![picture](http://storage.xifan.fun/ae34e817d58cfc941f8ffbf576e80f5dead9b776840694d29f3c16e16eef252b.png)
 
 - 🎤 单口喜剧演员
 - 😡 漫才组合吐槽役
-- 🧑🏻‍💻 业余程序员  
+- 🧑🏻‍💻 业余程序员
 
-> “只是想用创造抵御无聊”
-
-### ⏰ 时间
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C849%20hrs%2025%20mins-blue?style=flat)
-
-📊 **本周消耗时间** 
-
-```text
-🐱‍💻 项目: 
-本周没有记录到任何活动
-```
-
-
- Last Updated on 18/03/2026 18:47:37 UTC
-<!--END_SECTION:waka-->
+> "只是想用创造抵御无聊"
 
 #### 项目
 
-![项目推荐](https://github-contributor-stats.vercel.app/api?username=xifan2333&limit=5&theme=transparent&combine_all_yearly_contributions=true?count_private=true?locale=cn)
+[![fcitx5-vinput](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=fcitx5-vinput&theme=transparent&locale=cn)](https://github.com/xifan2333/fcitx5-vinput)
+[![dmnotifier](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=dmnotifier&theme=transparent&locale=cn)](https://github.com/xifan2333/dmnotifier)
+[![aur-auto](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=aur-auto&theme=transparent&locale=cn)](https://github.com/xifan2333/aur-auto)
+[![arch-post-install](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=arch-post-install&theme=transparent&locale=cn)](https://github.com/xifan2333/arch-post-install)
 
 ### 💻 技术栈
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats?locale=cn)
 
 #### Python
 
@@ -51,4 +35,4 @@
 
 ### 💖 赞赏
 
-![picture](http://storage.xifan.fun/575aab094474e34e0aeb5de43c9876f5079d1a9fc421c8cd7afeba02e51f38ce.png)  
+![picture](http://storage.xifan.fun/575aab094474e34e0aeb5de43c9876f5079d1a9fc421c8cd7afeba02e51f38ce.png)
