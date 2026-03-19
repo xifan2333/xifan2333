@@ -1,6 +1,6 @@
 ### 你好，我是稀饭👋
 
-![picture](http://storage.xifan.fun/ae34e817d58cfc941f8ffbf576e80f5dead9b776840694d29f3c16e16eef252b.png)
+![picture](./assets/avatar.png)
 
 - 🎤 单口喜剧演员
 - 😡 漫才组合吐槽役
@@ -31,8 +31,8 @@
 
 ### 💬 联系我
 
-![Telegram](https://img.shields.io/badge/telegram-xifan--telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![WeChat](https://img.shields.io/badge/wechat-xifan--backup-07C160?style=flat-square&logo=wechat&logoColor=white)
+![Telegram](https://img.shields.io/badge/telegram-xifan--telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![WeChat](https://img.shields.io/badge/wechat-xifan--backup-07C160?style=flat-square&logo=wechat&logoColor=white) [![Bilibili](https://img.shields.io/badge/bilibili-未定义项目-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/9318551)
 
 ### 💖 赞赏
 
-![picture](http://storage.xifan.fun/575aab094474e34e0aeb5de43c9876f5079d1a9fc421c8cd7afeba02e51f38ce.png)
+![picture](./assets/donate.png)
