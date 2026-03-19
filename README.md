@@ -8,13 +8,6 @@
 
 > "只是想用创造抵御无聊"
 
-#### 项目
-
-[![fcitx5-vinput](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=fcitx5-vinput&theme=transparent&locale=cn)](https://github.com/xifan2333/fcitx5-vinput)
-[![dmnotifier](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=dmnotifier&theme=transparent&locale=cn)](https://github.com/xifan2333/dmnotifier)
-[![aur-auto](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=aur-auto&theme=transparent&locale=cn)](https://github.com/xifan2333/aur-auto)
-[![arch-post-install](https://github-readme-stats.vercel.app/api/pin/?username=xifan2333&repo=arch-post-install&theme=transparent&locale=cn)](https://github.com/xifan2333/arch-post-install)
-
 ### 💻 技术栈
 
 #### Python
