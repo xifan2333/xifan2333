@@ -12,19 +12,31 @@
 
 #### Python
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Web Scraping](https://img.shields.io/badge/web%20scraping-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/web%20scraping-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=fff&style=for-the-badge)
 
 #### 前端
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Uniapp](https://img.shields.io/badge/uniapp-%2335495e.svg?style=for-the-badge&logo=uniapp&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Uniapp](https://img.shields.io/badge/uniapp-%2335495e.svg?style=for-the-badge&logo=uniapp&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=for-the-badge)
 
 #### 硬件
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%230071C3.svg?style=for-the-badge&logo=esp32&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=333&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)
 
 ### 💬 联系我
 
-![Telegram](https://img.shields.io/badge/telegram-xifan--telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) ![WeChat](https://img.shields.io/badge/wechat-xifan--backup-07C160?style=flat-square&logo=wechat&logoColor=white) [![Bilibili](https://img.shields.io/badge/bilibili-未定义项目-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/9318551)
+![Telegram](https://img.shields.io/badge/telegram-xifan--telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![WeChat](https://img.shields.io/badge/wechat-xifan--backup-07C160?style=flat-square&logo=wechat&logoColor=white)
+[![Bilibili](https://img.shields.io/badge/bilibili-未定义项目-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/9318551)
 
 ### 💖 赞赏
 
